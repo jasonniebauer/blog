@@ -4,7 +4,7 @@ seoTitle: "The Modern Data Team: A Leadership's Blueprint"
 seoDescription: "Learn to organize and lead a modern data team with roles, structures, and strategies for data maturity and machine learning success"
 datePublished: Thu Jan 01 2026 18:00:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmjvr368l000302jr4urn0wyk
-slug: the-modern-data-team-a-leaders-blueprint
+slug: modern-data-team-a-leaders-blueprint
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767290352361/8795464f-33ea-4a3c-87a6-e48348d48542.png
 tags: data-science, machine-learning
 
