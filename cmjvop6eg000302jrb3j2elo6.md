@@ -12,6 +12,8 @@ tags: data-science, machine-learning
 
 Supervised learning utilizes specific target variables and input data to forecast future events or establish causal relationships, such as predicting equipment failure or customer purchases. In contrast, unsupervised learning focuses on discovering hidden patterns or groupings within data without the guidance of a pre-defined outcome. This approach is commonly used for market segmentation and identifying anomalies in manufacturing or finance. Together, these methodologies allow organizations to optimize operations, manage logistical demands, and enhance customer targeting through statistical analysis. By distinguishing between predictive modeling and pattern discovery, these methodologies help professionals choose the right analytical tools for specific industrial challenges.
 
+---
+
 ## Every ML Project Pursues One of Three Core Goals
 
 Machine learning applies statistical or computer science methods on data to:
@@ -147,7 +149,12 @@ Let's see how both Supervised (prediction) and Unsupervised (pattern discovery) 
 
 ### The Two Methods Side-by-Side: A Cheat Sheet
 
-<table><tbody><tr><th colspan="1" rowspan="1"><p></p></th><td colspan="1" rowspan="1"><p><strong>Supervised Machine Learning</strong></p></td><td colspan="1" rowspan="1"><p><strong>Unsupervised Machine Learning</strong></p></td></tr><tr><th colspan="1" rowspan="1"><p><strong>Core Goal</strong></p></th><td colspan="1" rowspan="1"><p>Predict future events, Draw causal insights</p></td><td colspan="1" rowspan="1"><p>Understand patterns in data</p></td></tr><tr><th colspan="1" rowspan="1"><p><strong>Data Requirement</strong></p></th><td colspan="1" rowspan="1"><p>Input Features AND a Target Variable (“Answer Key”)</p></td><td colspan="1" rowspan="1"><p>Input Features only. No Target Variable.</p></td></tr><tr><th colspan="1" rowspan="1"><p><strong>Key Question</strong></p></th><td colspan="1" rowspan="1"><p>“Based on past data, what is this likely to be?”</p></td><td colspan="1" rowspan="1"><p>“What hidden groups or structures exist in my data?”</p></td></tr><tr><th colspan="1" rowspan="1"><p><strong>Example</strong></p></th><td colspan="1" rowspan="1"><p>Predicting if a credit card transaction is fraudulent.</p></td><td colspan="1" rowspan="1"><p>Segmenting customers into distinct purchasing groups.</p></td></tr></tbody></table>
+|  | **Supervised Machine Learning** | **Unsupervised Machine Learning** |
+| --- | --- | --- |
+| **Core Goal** | Predict future events, Draw causal insights | Understand patterns in data |
+| **Data Requirement** | Input Features AND a Target Variable (“Answer Key”) | Input Features only. No Target Variable. |
+| **Key Question** | “Based on past data, what is this likely to be?” | “What hidden groups or structures exist in my data?” |
+| **Example** | Predicting if a credit card transaction is fraudulent. | Segmenting customers into distinct purchasing groups. |
 
 ## Prediction vs. Pattern Discovery: The Leader's Edge
 
