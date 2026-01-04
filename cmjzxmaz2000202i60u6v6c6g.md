@@ -6,7 +6,7 @@ datePublished: Sun Jan 04 2026 16:14:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmjzxmaz2000202i60u6v6c6g
 slug: mastering-the-sql-querying-workflow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767546059028/383285bc-1c9a-4081-a136-bf04347dd5f8.png
-tags: data-analysis, sql
+tags: data-analysis, sql, data-analyst
 
 ---
 
