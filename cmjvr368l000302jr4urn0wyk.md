@@ -5,7 +5,7 @@ seoDescription: "Learn to organize and lead a modern data team with roles, struc
 datePublished: Thu Jan 01 2026 18:00:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmjvr368l000302jr4urn0wyk
 slug: modern-data-team-a-leaders-blueprint
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767291345336/fd256b18-8c08-4e5d-94c8-ba07b4ad1518.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767560302317/e4b96f94-4ad2-4f4d-bb08-af729fb4c72c.png
 tags: data-science, machine-learning
 
 ---
