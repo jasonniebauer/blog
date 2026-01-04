@@ -12,6 +12,8 @@ tags: data-analysis, sql
 
 After years of experience wrangling complex datasets, I have seen firsthand how a structured SQL querying workflow can transform raw data into actionable insights. Whether you are analyzing customer behavior, financial trends, or operational metrics, following a systematic approach ensures efficiency, accuracy, and scalability. In this post, I will break down a proven five-step workflow for SQL querying, drawing from real-world applications to highlight key techniques and best practices.
 
+---
+
 ## Step 1: Understand the Data Structure
 
 The foundation of any effective query is a deep understanding of your database. Start by reviewing the schema to map out tables, columns, relationships, and data types. This prevents downstream errors like mismatched joins or incorrect aggregations.
