@@ -41,7 +41,7 @@ These real-world applications show how ML bridges theory and business impact.
 
 ## The “Garbage In, Garbage Out” Trap
 
-The biggest hurdle to ML success? Not algorithm complexity, but data quality. No matter how advanced your model, if the input data is flawed, the outputs will be too (leading to costly mistakes). Think of it as building a house on sand: sophisticated tools can't compensate for a weak base.
+The biggest hurdle to ML success? Not algorithm complexity, but data quality. No matter how advanced your model may be, if the input data is flawed, the outputs will be too (leading to costly mistakes). Think of it as building a house on sand: sophisticated tools can't compensate for a weak base.
 
 ### A Common Misconception That Can Derail Your Strategy
 
